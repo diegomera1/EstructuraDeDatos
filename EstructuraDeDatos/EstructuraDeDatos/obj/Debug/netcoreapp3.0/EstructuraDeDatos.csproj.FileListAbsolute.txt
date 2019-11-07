@@ -1,0 +1,11 @@
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber2\EstructuraDeDatos\EstructuraDeDatos\bin\Debug\netcoreapp3.0\EstructuraDeDatos.exe
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber2\EstructuraDeDatos\EstructuraDeDatos\bin\Debug\netcoreapp3.0\EstructuraDeDatos.deps.json
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber2\EstructuraDeDatos\EstructuraDeDatos\bin\Debug\netcoreapp3.0\EstructuraDeDatos.runtimeconfig.json
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber2\EstructuraDeDatos\EstructuraDeDatos\bin\Debug\netcoreapp3.0\EstructuraDeDatos.runtimeconfig.dev.json
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber2\EstructuraDeDatos\EstructuraDeDatos\bin\Debug\netcoreapp3.0\EstructuraDeDatos.dll
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber2\EstructuraDeDatos\EstructuraDeDatos\bin\Debug\netcoreapp3.0\EstructuraDeDatos.pdb
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber2\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\netcoreapp3.0\EstructuraDeDatos.csprojAssemblyReference.cache
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber2\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\netcoreapp3.0\EstructuraDeDatos.AssemblyInfoInputs.cache
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber2\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\netcoreapp3.0\EstructuraDeDatos.AssemblyInfo.cs
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber2\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\netcoreapp3.0\EstructuraDeDatos.dll
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber2\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\netcoreapp3.0\EstructuraDeDatos.pdb
